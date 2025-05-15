@@ -1,7 +1,7 @@
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Hallos, Just call me Bhetty or Lady Bhie.
 
-- Business Analyst + Backend + Data (Lover of workflows, APIs, and neat SQL queries.)
-- I’m a Business Analyst with backend instincts, a love for clean processes, and a mission to make business and tech play nice.
+- Business Analyst + Backend + Data
+- I’m a Business Analyst with backend instincts, a love for clean processes, workflows, and neat SQL queries.
 
 
 On a mission to build smarter systems and smarter teams — one API spec at a time.
