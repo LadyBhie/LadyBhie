@@ -12,9 +12,18 @@ And oh! 😎
 
 I'm fluent in:
 
-RESTful APIs, Business Process Mapping, SQL, Technical Documentation, Wireframing, Jira, Agile mindset, Data analysis, Product Mgt, 
+RESTful APIs, BPMN, UML, SQL, Technical Documentation, Wireframing, Jira, Agile mindset, Data analysis, Product Mgt.
 
 
 
-Let's make business and tech play nice, shall we?
 
+Other Stuff I do for fun
+- I like talking, so I talk about Business. Users. Tech (BUT Podcast)
+- I write personal love letters. I can send you one if you want, just say "[I do](https://www.linkedin.com/newsletters/bams-7233877166860476416)"
+- I sometimes like to write the stories of my projects, so I dump them [here](https://medium.com/@elizabeth.ekenimoh)
+- 👈🏼👈🏼 I'm digitally savvy, so my socials are 👈🏼👈🏼👈🏼
+
+
+
+
+Now that you've met me, Let's make business and tech play nice, shall we?
