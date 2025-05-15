@@ -46,6 +46,23 @@ And oh! <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" wi
 
 
 
+### 🚀 My Latest Projects
+
+| Project | Description | Link |
+|--------|-------------|------|
+| Project 1 | Something cool I worked on | [View](#) |
+| Project 2 | Another fun build | [View](#) |
+| Project 3 | More magic, less madness | [View](#) |
+
+---
+
+### ✍🏽 Latest from My Medium
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 
 
 Other Stuff I do for fun
