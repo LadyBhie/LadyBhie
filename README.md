@@ -48,11 +48,11 @@ And oh! <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" wi
 
 ### 🚀 My Latest Projects
 
-| Project | Description | Link |
-|--------|-------------|------|
-| Project Title | Something cool I worked on | [View](#) |
-| Project Title | Another fun build | [View](#) |
-| Project Title | More magic, less madness | [View](#) |
+| Project Title                                              | Description                                          |
+|------------------------------------------------------------|----------------------------------------------------|
+| [Smart API Builder](https://github.com/ladybhie/api-builder) | Backend tool. Live demo  |
+| [Data Viz Dashboard](https://github.com/ladybhie/data-viz)  | Visualizes metrics. See docs on GitHub              |
+
 
 ---
 
@@ -68,9 +68,9 @@ And oh! <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" wi
 
 
 
-### Other Stuff I do for fun
+### 🌝 Other Stuff I do for fun
 
-- I like talking, so I talk about Business. Users. Tech (BUT Podcast)
+- I like talking, so I talk about Business. Users. Tech
 
 - I write personal love letters. I can send you one if you want, just say "[I do](https://www.linkedin.com/newsletters/bams-7233877166860476416)"
 
