@@ -11,4 +11,4 @@ On a mission to build smarter systems and smarter teams — one API spec at a ti
 
 When I’m not mapping workflows or reviewing PRDs, you’ll find me plotting my next portfolio project or geeking out over the perfect process flow.
 
-Let’s make business and tech play nice. 
+Let's make business and tech play nice, shall we?
