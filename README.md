@@ -65,7 +65,8 @@ And oh! <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" wi
 
 
 
-Other Stuff I do for fun
+### Other Stuff I do for fun
+
 - I like talking, so I talk about Business. Users. Tech (BUT Podcast)
 
 - I write personal love letters. I can send you one if you want, just say "[I do](https://www.linkedin.com/newsletters/bams-7233877166860476416)"
@@ -75,6 +76,13 @@ Other Stuff I do for fun
 - 👈🏼👈🏼 I'm digitally savvy, so my socials are 👈🏼👈🏼👈🏼
 
 
+
+---
+
+### 📺 See the Latest I have on YouTube 
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 
 
 
