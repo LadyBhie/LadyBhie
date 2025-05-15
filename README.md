@@ -1,12 +1,14 @@
-- 👋 Hi, I’m Elizabeth O. Ekenimoh, preferably Betty.
-- 👀 I am a WIFE, MOTHER, Business Analyst, Financial Analyst, and Data Analyst. I am interested in assisting businesses build innovative solutions, analyze and visualize data, and advance business [processes and procedures.
-- 💞️ I’m looking to collaborate on projects that will sharpen my skills and ultimately lead to practical solutions. I am open to mostly remote jobs anywhere in the world.
-- 📫 You can reach me on elizabeth.ekenimoh@gmail.com, @bettydanalyst on Twitter
+👋 Hi, I’m Elizabeth "Lady Bhie" Ekenimoh, preferably Bhetty or Lady Bhie.
+- Technical Business Analyst. BA Trainer. Career Clarity Coach.
+- I bridge business goals with code, crafting clear docs and data-driven solutions. Lover of workflows, APIs, and neat SQL queries.
 
-![Betty's GitHub stats](https://github-readme-stats.vercel.app/api?username=bettydanalyst&theme=dark&show_icons=true)
-- WELCOME TO MY SPACE!!!!
 
-<!---
-BettyDAnalyst/BettyDAnalyst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a Tech-savvy Business Analyst who speaks fluent backend and SQL. 
+I bridge the gap between business goals and code, translating complex problems into clear, actionable solutions. 
+Lover of clean docs, killer user stories, and SQL queries that actually make sense. 
+
+On a mission to build smarter systems and smarter teams — one API spec at a time.
+
+When I’m not mapping workflows or reviewing PRDs, you’ll find me plotting my next portfolio project or geeking out over the perfect process flow.
+
+Let’s make business and tech play nice. 
