@@ -1,4 +1,4 @@
-name: Latest Medium Posts
+name: Update README with latest Medium posts
 
 on:
   schedule:
@@ -7,10 +7,19 @@ on:
 
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: gautamkrishnar/blog-post-workflow@v1
+
+      - name: Fetch latest Medium posts
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://medium.com/feed/@elizabeth.ekenimoh"
+
+      - name: Commit README updates
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          git commit -m "Update README with latest Medium posts" || echo "No changes to commit"
+          git push
