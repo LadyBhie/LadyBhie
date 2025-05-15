@@ -10,9 +10,8 @@ And oh! 😎
 - I founded and train BAs at [BAMS Academy](www.bamsacademy.com)
 - I Author [BA Books and Resources](https://selar.com/m/LadyBhie)
 
-I'm fluent in:
 
-### 🛠️ Things I work with
+### 🛠️ I'm fluent in
 
 ![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-0052CC?style=for-the-badge)
 ![BPMN](https://img.shields.io/badge/-BPMN-007396?style=for-the-badge)
