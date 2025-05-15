@@ -59,6 +59,9 @@ And oh! <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" wi
 ### ✍🏽 Read My Latest Article
 
 <!-- BLOG-POST-LIST:START -->
+- [Product Teardown: Piggyvest](https://medium.com/@elizabeth.ekenimoh/product-teardown-piggyvest-3c2233ee1c50?source=rss-3b8d5c97d667------2)
+- [CASE STUDY:MEALPAL](https://medium.com/@elizabeth.ekenimoh/case-study-mealpal-a91fa5a41ba2?source=rss-3b8d5c97d667------2)
+- [Product Case Study: Kolabm8 &lpar;A Partner Finding App&rpar;](https://medium.com/@elizabeth.ekenimoh/product-case-study-kolabm8-a-partner-finding-app-ebb409b26405?source=rss-3b8d5c97d667------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
