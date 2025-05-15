@@ -12,8 +12,18 @@ And oh! 😎
 
 I'm fluent in:
 
-RESTful APIs, BPMN, UML, SQL, Technical Documentation, Wireframing, Jira, Agile mindset, Data analysis, Product Mgt.
+### 🛠️ Things I work with
 
+![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-0052CC?style=for-the-badge)
+![BPMN](https://img.shields.io/badge/-BPMN-007396?style=for-the-badge)
+![UML](https://img.shields.io/badge/-UML-ffcc00?style=for-the-badge)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Tech Docs](https://img.shields.io/badge/-Technical%20Documentation-6E4C13?style=for-the-badge)
+![Wireframing](https://img.shields.io/badge/-Wireframing-FB8C00?style=for-the-badge)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Agile Mindset](https://img.shields.io/badge/-Agile%20Mindset-3DDC84?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-2962FF?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Product Management](https://img.shields.io/badge/-Product%20Management-FF6F00?style=for-the-badge)
 
 
 
