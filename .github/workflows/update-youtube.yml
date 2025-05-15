@@ -1,0 +1,25 @@
+name: Update README with latest YouTube video
+
+on:
+  schedule:
+    - cron: '0 * * * *' # every hour
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-video:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch latest YouTube video
+        uses: ilshidur/action-youtube-latest-video@v1
+        with:
+          channel_id: UCBRk9739e5U0fIoSkvktVcQ
+
+      - name: Commit README updates
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          git commit -m "Update README with latest YouTube video" || echo "No changes to commit"
+          git push
