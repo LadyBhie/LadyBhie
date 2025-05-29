@@ -84,6 +84,7 @@ And oh! <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" wi
 
 ### 📺 See the Latest I have on YouTube 
 <!-- YOUTUBE:START -->
+🔗 [Watch our latest video]($VIDEO_URL)
 <!-- YOUTUBE:END -->
 
 
