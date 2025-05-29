@@ -15,6 +15,7 @@ jobs:
         uses: ilshidur/action-youtube-latest-video@v1
         with:
           channel_id: UCBRk9739e5U0fIoSkvktVcQ
+          api_key: ${{ secrets.YOUTUBE_API_KEY }}
 
       - name: Commit README updates
         run: |
