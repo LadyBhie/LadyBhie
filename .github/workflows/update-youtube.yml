@@ -17,6 +17,9 @@ jobs:
           channel_id: UCBRk9739e5U0fIoSkvktVcQ
           api_key: ${{ secrets.YOUTUBE_API_KEY }}
 
+      - name: Show README contents
+        run: cat README.md
+
       - name: Commit README updates
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
