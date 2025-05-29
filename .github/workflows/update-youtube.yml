@@ -14,8 +14,7 @@ jobs:
       - name: Get latest YouTube video info
         id: get_video
         run: |
-          echo "Fetching latest YouTube video..."
-          VIDEO_DATA=$(curl -s "https://www.googleapis.com/youtube/v3/search?key=${{ secrets.YOUTUBE_API_KEY }}&channelId=UCBRk9739e5U0fIoSkvktVcQ&part=snippet,id&order=date&maxResults=1&type=video")
+          VIDEO_DATA=$(curl -s "https://www.googleapis.com/youtube/v3/search?key=${{ secrets.Youtube_API_Key }}&channelId=UCBRk9739e5U0fIoSkvktVcQ&part=snippet,id&order=date&maxResults=1&type=video")
           VIDEO_ID=$(echo "$VIDEO_DATA" | jq -r '.items[0].id.videoId')
           VIDEO_TITLE=$(echo "$VIDEO_DATA" | jq -r '.items[0].snippet.title')
           echo "Latest video: $VIDEO_TITLE (https://www.youtube.com/watch?v=$VIDEO_ID)"
@@ -23,7 +22,10 @@ jobs:
 
       - name: Update README.md with video link
         run: |
-          sed -i '/<!-- YOUTUBE:START -->/,/<!-- YOUTUBE:END -->/c\<!-- YOUTUBE:START -->\n🔗 [Watch our latest video]($VIDEO_URL)\n<!-- YOUTUBE:END -->' README.md
+          sed -i "/<!-- YOUTUBE:START -->/,/<!-- YOUTUBE:END -->/c\
+<!-- YOUTUBE:START -->\
+🔗 [Watch our latest video]($VIDEO_URL)\
+<!-- YOUTUBE:END -->" README.md
 
       - name: Commit and push changes
         run: |
