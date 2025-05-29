@@ -3,7 +3,7 @@ name: Update README with latest YouTube video
 on:
   schedule:
     - cron: '0 * * * *' # Runs every hour
-  workflow_dispatch: # Allows manual trigger
+  workflow_dispatch:
 
 jobs:
   update-readme-with-video:
