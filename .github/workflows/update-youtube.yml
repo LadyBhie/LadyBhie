@@ -2,8 +2,8 @@ name: Update README with latest YouTube video
 
 on:
   schedule:
-    - cron: '0 * * * *' # every hour
-  workflow_dispatch:
+    - cron: '0 * * * *' # Runs every hour
+  workflow_dispatch: # Allows manual trigger
 
 jobs:
   update-readme-with-video:
@@ -11,16 +11,21 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Fetch latest YouTube video
-        uses: ilshidur/action-youtube-latest-video@v1
-        with:
-          channel_id: UCBRk9739e5U0fIoSkvktVcQ
-          api_key: ${{ secrets.YOUTUBE_API_KEY }}
+      - name: Get latest YouTube video info
+        id: get_video
+        run: |
+          echo "Fetching latest YouTube video..."
+          VIDEO_DATA=$(curl -s "https://www.googleapis.com/youtube/v3/search?key=${{ secrets.YOUTUBE_API_KEY }}&channelId=UCBRk9739e5U0fIoSkvktVcQ&part=snippet,id&order=date&maxResults=1&type=video")
+          VIDEO_ID=$(echo "$VIDEO_DATA" | jq -r '.items[0].id.videoId')
+          VIDEO_TITLE=$(echo "$VIDEO_DATA" | jq -r '.items[0].snippet.title')
+          echo "Latest video: $VIDEO_TITLE (https://www.youtube.com/watch?v=$VIDEO_ID)"
+          echo "VIDEO_URL=https://www.youtube.com/watch?v=$VIDEO_ID" >> $GITHUB_ENV
 
-      - name: Show README contents
-        run: cat README.md
+      - name: Update README.md with video link
+        run: |
+          sed -i '/<!-- YOUTUBE:START -->/,/<!-- YOUTUBE:END -->/c\<!-- YOUTUBE:START -->\n🔗 [Watch our latest video]($VIDEO_URL)\n<!-- YOUTUBE:END -->' README.md
 
-      - name: Commit README updates
+      - name: Commit and push changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
