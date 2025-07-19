@@ -1,10 +1,6 @@
- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Hallos, Just call me Bhetty or Lady Bhie.
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>  Hallos, Just call me Bhetty or Lady Bhie.
 
-
-Hello, nice to meet you. I am a very happy fellow
-
-
-
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
 
 - Business Analyst + Backend + Data
 - I’m a Business Analyst with backend instincts, a love for clean processes, workflows, and neat SQL queries.
