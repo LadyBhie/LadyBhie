@@ -1,20 +1,13 @@
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>  Hallos, Just call me Bhetty or Lady Bhie.
-
- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
-
 - Business Analyst + Backend + Data
 - I’m a Business Analyst with backend instincts, a love for clean processes, workflows, and neat SQL queries.
-
 
 On a mission to build smarter systems and smarter teams — one API spec at a time.
 
 
-
 And oh! <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="25" alt="cool emoji" />
-- I founded and train BAs at [BAMS Academy](www.bamsacademy.com)
+- I founded and train BAs at [[BAMS Academy](www.bamsacademy.com)
 - I Author [BA Books and Resources](https://selar.com/m/LadyBhie)
-
-
 
 
 ### 🛠️ I'm fluent in
